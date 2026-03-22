@@ -1,0 +1,15 @@
+<svg width="1038" height="540" viewBox="0 0 1038 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" width="947.16" height="135" fill="#00FFFF"/>
+<rect x="90" y="270" width="947.16" height="135" fill="#FF0000"/>
+<rect x="90" y="405" width="947.16" height="135" fill="#FF00FF"/>
+<rect x="90" y="135" width="947.16" height="135" fill="#FFFF00"/>
+<path d="M360 0H450L720 270L450 540H360V0Z" fill="black"/>
+<path d="M270 0H360L630 270L360 540H270V0Z" fill="#994D00"/>
+<path d="M180 0H270L540 270L270 540H180V0Z" fill="#9545E5"/>
+<path d="M90 0H180L450 270L180 540H90V0Z" fill="#3399FF"/>
+<path d="M0 0H90L360 270L90 540H0V0Z" fill="#00B200"/>
+<foreignObject x="-64" y="-64" width="1165" height="668"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(32px);clip-path:url(#bgblur_0_576_38_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="64" width="1037" height="540" fill="#292933" fill-opacity="0.7"/>
+<defs>
+<clipPath id="bgblur_0_576_38_clip_path" transform="translate(64 64)"><rect width="1037" height="540"/>
+</clipPath></defs>
+</svg>
